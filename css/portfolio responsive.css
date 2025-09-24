@@ -1,0 +1,5 @@
+@media(max-width:575px){
+    .headings{
+        transform: scale(0.5) !important;
+    }
+}
