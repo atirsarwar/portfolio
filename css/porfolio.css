@@ -276,10 +276,11 @@ section {
 .main .card:nth-child(2):hover { transform: translateX(0px)   rotate(0deg) scale(1.05) !important; }
 .main .card:nth-child(3):hover { transform: translateX(70px)  rotate(0deg) scale(1.05) !important; }
 
-#projects h5 {
+#projects h5 a{
   font-size: 1rem;
   margin-top: .75rem;
   color: #ccc;
+  text-decoration: none;
 }
 
 /* Contact Buttons */
