@@ -276,11 +276,28 @@ section {
 .main .card:nth-child(2):hover { transform: translateX(0px)   rotate(0deg) scale(1.05) !important; }
 .main .card:nth-child(3):hover { transform: translateX(70px)  rotate(0deg) scale(1.05) !important; }
 
+#projects h5 {
+  font-size: 1rem;
+  margin-top: .75rem;
+  color: #ccc;
+  transition: 0.3s;
+}
+
 #projects h5 a{
   font-size: 1rem;
   margin-top: .75rem;
   color: #ccc;
-  text-decoration: none;
+  transition: 0.3s;
+}
+
+#projects h5:hover {
+  color: #fff;
+  text-shadow: 7px 5px 56px -14px rgba(255, 255, 255, 0.2);
+}
+
+#projects h5 a:hover {
+  color: #fff;
+  text-shadow: 7px 5px 56px -14px rgba(255, 255, 255, 0.2);
 }
 
 /* Contact Buttons */
