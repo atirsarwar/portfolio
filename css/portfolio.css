@@ -443,13 +443,13 @@
             opacity: 0.6;
         }
 
-        .skill-design::before { background-image: url("images/imagesgraphic-design.webp"); }
-        .skill-marketing::before { background-image: url("images/dgm.webp"); }
-        .skill-data::before { background-image: url("images/da.webp"); }
-        .skill-web::before { background-image: url("images/wd.webp"); }
-        .skill-speaking::before { background-image: url("images/public-speaking.webp"); }
-        .skill-growth::before { background-image: url("images/selfgrowth.webp"); }
-        .skill-modeling::before { background-image: url("images/modeling.webp"); }
+        .skill-design::before { background-image: url("../images/imagesgraphic-design.webp"); }
+        .skill-marketing::before { background-image: url("../images/dgm.webp"); }
+        .skill-data::before { background-image: url("../images/da.webp"); }
+        .skill-web::before { background-image: url("../images/wd.webp"); }
+        .skill-speaking::before { background-image: url("../images/public-speaking.webp"); }
+        .skill-growth::before { background-image: url("../images/selfgrowth.webp"); }
+        .skill-modeling::before { background-image: url("../images/modeling.webp"); }
 
         /* ===== PROJECTS SECTION ===== (KEEPING YOUR ORIGINAL FAN STACK CARDS) */
         #projects {
